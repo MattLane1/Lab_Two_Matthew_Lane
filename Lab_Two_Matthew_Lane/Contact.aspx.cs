@@ -13,5 +13,11 @@ namespace Lab_Two_Matthew_Lane
         {
 
         }
+
+        protected void SendButton_Click(object sender, EventArgs e)
+        {
+            //Temp Replace with actual code
+            Response.Redirect("Default.aspx");
+        }
     }
 }
